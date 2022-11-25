@@ -4,6 +4,6 @@
 
 ***Estudo aprendizagem Pensamento Computacional***
 
- ! [esta e a imagem] (https://img.elo7.com.br/product/600x380/3EC6A63/papel-de-parede-salao-beleza-cabeleireiro-kit-02-rolos-a604-papel-de-parede-esmalte-unhas.jpg)
+![SALAO](https://img.elo7.com.br/product/600x380/3EC6A63/papel-de-parede-salao-beleza-cabeleireiro-kit-02-rolos-a604-papel-de-parede-esmalte-unhas.jpg)
  
- //github.com/obal01/salao-das-flores-.git
+  [SALAO DAS FLORES](github.com/obal01/salao-das-flores-.git)
